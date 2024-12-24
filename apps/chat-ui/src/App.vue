@@ -6,7 +6,7 @@
         @click="deployAIChat"
         class="bg-blue-700 hover:bg-blue-800 text-white font-bold py-2 p-1 rounded flex items-center"
       >
-        第二次部署我的AIChat
+        第三次部署我的AIChat
       </button>
       <div>
         <select id="model-select" v-model="model" class="select p-1 py-2 rounded bg-white text-black shadow-sm">
